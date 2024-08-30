@@ -6,5 +6,4 @@
 
 ### Interests
 - free & open-source software
-- GNU/Linux (I use Arch btw)
 - Almost anything gaming-related
